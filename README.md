@@ -1,2 +1,2 @@
 # odin_recipes
-TOP Project #1 Recipes
+This is my 1st project as I am learning web development with The Odin Project.
